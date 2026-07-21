@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Chifto Support</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; line-height: 1.6; }
+        h1 { color: #1A1A2E; }
+    </style>
+</head>
+<body>
+    <h1>Chifto: Binary Puzzle — Support</h1>
+    <p>Need help with Chifto? You're in the right place.</p>
+
+    <h2>Frequently Asked Questions</h2>
+
+    <p><strong>How do puzzles work?</strong><br>
+    Fill every cell with one of two symbols. No more than two of the same symbol can sit side by side, and every row/column must contain an equal number of each symbol. Special "=" and "×" clues tell you when two cells must match or differ.</p>
+
+    <p><strong>I ran out of hints. What do I do?</strong><br>
+    Watch a short rewarded ad to earn an extra hint, or purchase a puzzle pack from the Shop for more puzzles and hints.</p>
+
+    <p><strong>How do I remove ads?</strong><br>
+    Go to Shop and purchase any "Flex" pack, or the standalone "No Ads" option. This removes all ads permanently on your account.</p>
+
+    <p><strong>I made a purchase but didn't receive my content.</strong><br>
+    Please make sure you're connected to the internet when completing a purchase. If the issue persists, contact us below with your purchase receipt/date and we'll help right away.</p>
+
+    <p><strong>How do I change the app language or theme?</strong><br>
+    Go to Settings from the main menu to change language, icon set, theme (White / Teal / Night), and sound/vibration preferences.</p>
+
+    <h2>Contact Us</h2>
+    <p>Still need help? Email us at <strong>muhammed.a.kaya@gmail.com</strong> and we'll get back to you as soon as possible.</p>
+
+    <h2>Privacy Policy</h2>
+    <p>Read our privacy policy <a href="/chifto-privacy">here</a>.</p>
+</body>
+</html>
